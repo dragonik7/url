@@ -2,6 +2,4 @@
 /database/*
 /docker/*
 .Makefile.swp
-docker-compose.yml
-.docker-compose.yml.swp
 /vendor/
